@@ -1,0 +1,30 @@
+@import url('./typography.css');
+@import url('./box.css');
+
+
+:root{
+  --fw-regular: 400;
+  --fw-bold: 700;
+
+
+  --fs-small: 14px;
+  --fs-standart: 20px;
+  --fs-medium: 48px;
+  --fs-big: 80px;
+}
+
+#root{
+  width: min(100% - 40px, 1240px);
+  margin-inline: auto;
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+

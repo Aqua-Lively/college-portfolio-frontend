@@ -1,0 +1,14 @@
+.header{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.title{
+  max-width: 590px;
+  text-transform: uppercase;
+}
+.filter{
+  display: flex;
+  gap: 20px;
+}

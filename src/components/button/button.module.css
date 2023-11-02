@@ -1,0 +1,18 @@
+
+.button{
+  padding: 8px 16px;
+  border: 1px solid #BBBBBB;
+  border-radius: 30px;
+  background-color: white;
+  cursor: pointer;
+}
+.button:hover{
+  color: white;
+  background-color: black;
+}
+
+.button__text{
+  font-weight: 400;
+  font-size: 14px;
+  text-transform: uppercase;
+}
